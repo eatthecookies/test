@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.3cd89d20.css",
+    "main.js": "/test/static/js/main.516a8daa.js",
+    "static/media/Pusia-Bold.ttf": "/test/static/media/Pusia-Bold.d2c20e5d5bbbbc87c8ff.ttf",
+    "static/media/Comfortaa.ttf": "/test/static/media/Comfortaa.7b8c952927af2b0deacd.ttf",
+    "static/media/FRACTAL.ttf": "/test/static/media/FRACTAL.b669dd0c0790c9d1137d.ttf",
+    "static/media/resist-sans-text-7.otf": "/test/static/media/resist-sans-text-7.0efea28f503fd0da6a93.otf",
+    "static/media/Manrope-VariableFont_wght.ttf": "/test/static/media/Manrope-VariableFont_wght.4afb283bba326df875f6.ttf",
+    "static/media/Perun.ttf": "/test/static/media/Perun.128251468919b4488a90.ttf",
+    "static/media/Groteskly Yours - Resist Sans Text Light.otf": "/test/static/media/Groteskly Yours - Resist Sans Text Light.0587ab29acbf9714b435.otf",
+    "static/media/IgraSans.otf": "/test/static/media/IgraSans.f6b46e01c2370c2fab16.otf",
+    "static/media/Rostov.ttf": "/test/static/media/Rostov.b50d1fb497eaaf57c79f.ttf",
+    "static/media/Hero.ttf": "/test/static/media/Hero.e7de38fb0b59857c16cd.ttf",
+    "static/media/Gilroy-Light.otf": "/test/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
+    "static/media/KharkivTone.ttf": "/test/static/media/KharkivTone.6606d31e8d8c3e9f194b.ttf",
+    "static/media/Montblanc Regular.ttf": "/test/static/media/Montblanc Regular.e39c3fbfb3654621ee33.ttf",
+    "static/media/QuinqueFive.ttf": "/test/static/media/QuinqueFive.b53f185f0771a9f116bb.ttf",
+    "static/media/Floripa.otf": "/test/static/media/Floripa.048d865c47814181b79e.otf",
+    "index.html": "/test/index.html",
+    "main.3cd89d20.css.map": "/test/static/css/main.3cd89d20.css.map",
+    "main.516a8daa.js.map": "/test/static/js/main.516a8daa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cd89d20.css",
+    "static/js/main.516a8daa.js"
+  ]
+}
